@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166314592-689de83d-c8d4-4ac1-8c3b-dfa75a19c009.png">
+  <img align="center" alt="MYSQL" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166314848-c0f28941-3c00-42ae-ba24-12f83ad843d5.png">
  
 </div>
   
