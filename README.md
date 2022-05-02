@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Daniel do Mar 👋
 
 - 🌱 Universitário em Análise e Desevolvimento de Sistemas...
-- 🌱 Linguagem PYTHON ...
+- 🌱 Matemático...
+- 🌱 Linguagem Python, Java e JavaScript ...
+- 🌱 Banco de Dados....
+- 
 
 <div align="center">
   <a href="https://linkedin.com/in/daniel-ferreira-63654722a ">
@@ -15,6 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166313842-e3ec88b9-1e27-44fd-adfa-fae384b64ad8.png">
  
 </div>
   
