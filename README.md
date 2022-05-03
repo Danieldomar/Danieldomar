@@ -2,9 +2,10 @@
 
 - 🌱 Universitário em Análise e Desevolvimento de Sistemas...
 - 🌱 Matemático...
+- 🌱 Full stack.(JavaScript, Html, Css, Angula, NodeJs, React)
 - 🌱 Linguagem Python, Java e JavaScript ...
-- 🌱 Banco de Dados....
-- 
+- 🌱 Banco de Dados MySql...
+
 
 <div align="center">
   <a href="https://linkedin.com/in/daniel-ferreira-63654722a ">
@@ -18,7 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166314848-c0f28941-3c00-42ae-ba24-12f83ad843d5.png">
+  <img align="center" alt="MYSQL" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166451868-0ec64385-8e0c-44d2-b37d-998a2de10d82.png">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/96265564/166452033-3bfe63f3-d1f4-4638-9709-00338d127c50.png">
  
 </div>
   
